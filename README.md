@@ -22,5 +22,6 @@ Note that the scorer should work for any number of dice up to 6.
 * Six-of-a-kind (Multiply Triple Score by 8)
 * Three Pairs [2,2,3,3,4,4] -> (800)
 * Straight [1,2,3,4,5,6] -> (1200)
+* No scoring dice -> (0)
 
 Scoring rules can be combined to deliver the highest total result
