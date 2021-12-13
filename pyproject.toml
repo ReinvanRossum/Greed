@@ -1,0 +1,10 @@
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+version = "0.1.0"
+name = "greed_kata"
+description = "https://codingdojo.org/kata/Greed/"
+
+[tool.poetry.dependencies]
+pytest = "latest"
+pytest-cov = "latest"
+python = "^3.8"
