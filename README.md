@@ -24,4 +24,6 @@ Note that the scorer should work for any number of dice up to 6.
 * Straight [1,2,3,4,5,6] -> (1200)
 * No scoring dice -> (0)
 
-Scoring rules can be combined to deliver the highest total result
+Scoring rules can be combined to deliver the highest total result. 
+
+Dice can be used in a result only once.
